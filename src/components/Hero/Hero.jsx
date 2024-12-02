@@ -10,7 +10,7 @@ const Hero = () => {
     <div id='home' className='hero'>
      
         <img src={profile_img} alt="" />
-        <h1><span>I'm Nayana-Cyber ,</span>Front end developer based in India</h1>
+        <h1><span>I'm Nayana M R ,</span>Front end developer based in India</h1>
         <p>A dedicated Frontend Developer with a talent for designing stunning and intuitive web applications that enhance user engagement.</p>
     
     <div className="hero-action">
